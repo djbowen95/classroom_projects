@@ -1,0 +1,7 @@
+header {
+    position: fixed;
+    border-bottom: 20px solid rgb(25, 114, 25);
+    background-color: hotpink;
+    width: 80%;
+    margin: auto;
+}
